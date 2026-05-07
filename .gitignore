@@ -1,0 +1,8 @@
+env/
+__pycache__/
+*.pyc
+.DS_Store
+
+# data and emails are not part of the source — they are inputs/outputs
+data/
+emails/
